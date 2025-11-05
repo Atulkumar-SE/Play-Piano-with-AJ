@@ -27,13 +27,13 @@ Designed with a clean **UI/UX**, responsive layout, and smooth animations to ref
 * 🔊 Adjustable volume control
 * ⌨️ Key visibility toggle
 * 💫 Smooth gradient UI with glowing button effects
-* 🪄 Responsive design for mobile and desktop
 
 ---
 
 ## 🧠 Tech Stack
 
 **Frontend:** HTML, CSS, JavaScript
+
 **Design:** Custom gradients, glassmorphism, and neumorphism-inspired UI
 
 ---
@@ -43,14 +43,9 @@ Designed with a clean **UI/UX**, responsive layout, and smooth animations to ref
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/atul/pulse-piano.git
+  https://github.com/Atulkumar-SE/Play-Piano-with-AJ.git
    ```
-2. Navigate to project folder
-
-   ```bash
-   cd play-piano
-   ```
-3. Open `index.html` in your browser
+2. Open `index.html` in your browser
 
 ---
 
@@ -71,3 +66,15 @@ Licensed under the **MIT License** – feel free to use and modify with credit.
 **Atul Kumar**
 Frontend Developer | UI/UX Enthusiast | Web App Designer
 🌐 [GitHub]([https://github.com/atul](https://github.com/Atulkumar-SE))
+
+
+🧑‍💻 Developer
+
+👤 Atul Kumar
+Frontend Developer | UI/UX Enthusiast | Web App Designer
+
+🔗 GitHub
+💼 Portfolio
+✉️ Contact
+
+⭐ If you like this project, don’t forget to give it a star!
