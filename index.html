@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PIANO</title>
+    <link rel="stylesheet" href="piano_style.css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h2>Pulse Piano</h2>
+        <div class="controls_container">
+          <!-- <button class="auto_play_btn">Play Jingle Bells</button> -->
+          <div class="auto_play_controls">
+            <select class="song_selector">
+              <option value="jingle">Jingle Bells</option>
+              <option value="birthday">Happy Birthday</option>
+              <option value="twinkle">Twinkle Twinkle Little Star</option>
+            </select>
+            <button class="auto_play_btn">Play Song</button>
+          </div>
+        <div class="column volume_slidebar">
+          <span class="volume-label">Volume</span>
+          <input type="range" min="0" max="1" step="any" value="0.5" class="volume-slider" id="volumeSlider" />
+                    <!-- <input type="range" class="volume-slider" min="0" max="100" value="0.7" id="volumeSlider"/> -->
+
+        </div>
+        <div class="column keys_checkbox">
+          <span>Key Show</span> <input type="checkbox" checked />
+        </div>
+        </div>
+      </header>
+      <ul class="piano_keys">
+        <li class="key white" data-key="a"><span>a</span></li>
+        <li class="key black" data-key="w"><span>w</span></li>
+        <li class="key white" data-key="s"><span>s</span></li>
+        <li class="key black" data-key="e"><span>e</span></li>
+        <li class="key white" data-key="d"><span>d</span></li>
+        <li class="key white" data-key="f"><span>f</span></li>
+        <li class="key black" data-key="t"><span>t</span></li>
+        <li class="key white" data-key="g"><span>g</span></li>
+        <li class="key black" data-key="y"><span>y</span></li>
+        <li class="key white" data-key="h"><span>h</span></li>
+        <li class="key black" data-key="u"><span>u</span></li>
+        <li class="key white" data-key="j"><span>j</span></li>
+        <li class="key white" data-key="k"><span>k</span></li>
+        <li class="key black" data-key="o"><span>o</span></li>
+        <li class="key white" data-key="l"><span>l</span></li>
+        <li class="key black" data-key="p"><span>p</span></li>
+        <li class="key white" data-key=";"><span>;</span></li>
+      </ul>
+    </div>
+
+    <script src="piano_script.js" defer></script>
+  </body>
+</html>
