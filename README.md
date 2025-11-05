@@ -7,7 +7,7 @@ Designed with a clean **UI/UX**, responsive layout, and smooth animations to ref
 
 ## 🚀 Demo
 
-🔗 [Play Live Demo](https://playpiano](https://atulkumar-se.github.io/Play-Piano-with-AJ/))
+🔗 [Play Live Demo](https://atulkumar-se.github.io/Play-Piano-with-AJ/)
 
 
 ---
