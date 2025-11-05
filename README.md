@@ -12,7 +12,7 @@ Designed with a clean **UI/UX**, responsive layout, and smooth animations to ref
 ---
 
 ## 🖼️ Preview
-
+<img width="1900" height="911" alt="Image" src="https://github.com/user-attachments/assets/e6a5062f-3a1f-459a-807d-f95d4c486c34" />
 ![Pulse Piano Screenshot 1]([./3f63ff4c-19ce-4b36-9d57-db0b27add8a1.png](https://github.com/user-attachments/assets/e6a5062f-3a1f-459a-807d-f95d4c486c34))
 ![Pulse Piano Screenshot 2]([./fcda0ff6-17c7-4637-b1bf-238ee03f3a40.png](https://github.com/user-attachments/assets/52725c56-9877-44a1-b75b-2365c06fd780))
 ![Pulse Piano Screenshot 3](./aa3a11b2-bc7f-4ab4-ab66-89da5cf336d6.png)
