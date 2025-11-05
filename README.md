@@ -7,15 +7,16 @@ Designed with a clean **UI/UX**, responsive layout, and smooth animations to ref
 
 ## 🚀 Demo
 
-🔗 [Play Live Demo](https://playpiano)
+🔗 [Play Live Demo](https://playpiano](https://atulkumar-se.github.io/Play-Piano-with-AJ/))
+
 
 ---
 
 ## 🖼️ Preview
 <img width="1900" height="911" alt="Image" src="https://github.com/user-attachments/assets/e6a5062f-3a1f-459a-807d-f95d4c486c34" />
-![Pulse Piano Screenshot 1]([./3f63ff4c-19ce-4b36-9d57-db0b27add8a1.png](https://github.com/user-attachments/assets/e6a5062f-3a1f-459a-807d-f95d4c486c34))
-![Pulse Piano Screenshot 2]([./fcda0ff6-17c7-4637-b1bf-238ee03f3a40.png](https://github.com/user-attachments/assets/52725c56-9877-44a1-b75b-2365c06fd780))
-![Pulse Piano Screenshot 3](./aa3a11b2-bc7f-4ab4-ab66-89da5cf336d6.png)
+
+<img width="1176" height="716" alt="Image" src="https://github.com/user-attachments/assets/52725c56-9877-44a1-b75b-2365c06fd780" />
+
 
 ---
 
@@ -47,7 +48,7 @@ Designed with a clean **UI/UX**, responsive layout, and smooth animations to ref
 2. Navigate to project folder
 
    ```bash
-   cd pulse-piano
+   cd play-piano
    ```
 3. Open `index.html` in your browser
 
@@ -55,7 +56,7 @@ Designed with a clean **UI/UX**, responsive layout, and smooth animations to ref
 
 ## 🧑‍🎨 About This Project
 
-Pulse Piano showcases my ability to create **interactive UI**, handle **real-time sound events**, and design an **engaging user interface** for modern web apps.
+Play Piano showcases my ability to create **interactive UI**, handle **real-time sound events**, and design an **engaging user interface** for modern web apps.
 
 ---
 
@@ -69,4 +70,4 @@ Licensed under the **MIT License** – feel free to use and modify with credit.
 
 **Atul Kumar**
 Frontend Developer | UI/UX Enthusiast | Web App Designer
-🌐 [GitHub](https://github.com/atul)
+🌐 [GitHub]([https://github.com/atul](https://github.com/Atulkumar-SE))
