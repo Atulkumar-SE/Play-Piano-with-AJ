@@ -65,7 +65,7 @@ Licensed under the **MIT License** – feel free to use and modify with credit.
 
 **Atul Kumar**  
 Frontend Developer | UI/UX Enthusiast | Web App Designer  
-
+[atul](https://github.com/Atulkumar-SE)
 🌐 [GitHub](https://github.com/Atulkumar-SE)  
 💼 [Portfolio](https://atulkumar-se.github.io/Play-Piano-with-AJ/)  
 ✉️ [Contact (LinkedIn)](https://www.linkedin.com/in/atul-jaiswal-sde?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUL6GprlvSwWnMK%2FW3ppilQ%3D%3D)
