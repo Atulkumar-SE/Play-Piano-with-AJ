@@ -36,6 +36,7 @@ Designed with a clean **UI/UX**, responsive layout, and smooth animations to ref
 
 **Design:** Custom gradients, glassmorphism, and neumorphism-inspired UI
 
+🌐 [GitHub](https://github.com/Atulkumar-SE)  
 ---
 
 ## 💻 Installation
