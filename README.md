@@ -9,7 +9,6 @@ Designed with a clean **UI/UX**, responsive layout, and smooth animations to ref
 
 🔗 [Play Live Demo](https://atulkumar-se.github.io/Play-Piano-with-AJ/)
 
-
 ---
 
 ## 🖼️ Preview
@@ -36,7 +35,6 @@ Designed with a clean **UI/UX**, responsive layout, and smooth animations to ref
 
 **Design:** Custom gradients, glassmorphism, and neumorphism-inspired UI
 
-🌐 [GitHub](https://github.com/Atulkumar-SE)  
 ---
 
 ## 💻 Installation
