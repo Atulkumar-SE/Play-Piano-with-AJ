@@ -1,73 +1,60 @@
-# 🎹 Play Piano
+🎹 Play Piano
 
-An interactive **virtual piano web app** built to play, learn, and enjoy melodies right from your browser.
-Designed with a clean **UI/UX**, responsive layout, and smooth animations to reflect my frontend and web development skills.
+An interactive virtual piano web app built to play, learn, and enjoy melodies right from your browser.
+Designed with a clean UI/UX, responsive layout, and smooth animations to reflect my frontend and web development skills.
 
----
+🚀 Live Demo
 
-## 🚀 Demo
+🔗 Play Now →
 
-🔗 [Play Live Demo](https://atulkumar-se.github.io/Play-Piano-with-AJ/)
+🖼️ Preview
+<img width="1900" height="911" alt="Piano App Preview" src="https://github.com/user-attachments/assets/e6a5062f-3a1f-459a-807d-f95d4c486c34" /> <img width="1176" height="716" alt="Play Piano UI" src="https://github.com/user-attachments/assets/52725c56-9877-44a1-b75b-2365c06fd780" />
+✨ Features
+
+🎵 Real Piano Notes — Play with keyboard or mouse clicks
+🎶 Built-in Songs — Jingle Bells, Happy Birthday, Twinkle Twinkle Little Star
+🔊 Volume Control — Adjust sound output easily
+⌨️ Key Visibility Toggle — Show or hide note labels
+💫 Modern UI Design — Gradient glow, glassmorphism & smooth transitions
+
+🧠 Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+Design: Gradients • Glassmorphism • Neumorphism-inspired UI
+
+💻 Installation
+
+Clone the repository
+
+git clone https://github.com/Atulkumar-SE/Play-Piano-with-AJ.git
 
 
----
+Open in browser
 
-## 🖼️ Preview
-<img width="1900" height="911" alt="Image" src="https://github.com/user-attachments/assets/e6a5062f-3a1f-459a-807d-f95d4c486c34" />
-
-<img width="1176" height="716" alt="Image" src="https://github.com/user-attachments/assets/52725c56-9877-44a1-b75b-2365c06fd780" />
+index.html
 
 
----
+That’s it! 🎉 You’re ready to play your first melody.
 
-## ✨ Features
+🧑‍🎨 About This Project
 
-* 🎵 Play real piano notes with keyboard or mouse clicks
-* 🎶 Built-in songs like *Jingle Bells*, *Happy Birthday*, and *Twinkle Twinkle Little Star*
-* 🔊 Adjustable volume control
-* ⌨️ Key visibility toggle
-* 💫 Smooth gradient UI with glowing button effects
+“Play Piano” demonstrates my ability to combine interactive frontend functionality, sound-based JavaScript logic, and modern web design aesthetics — built with a focus on clean UI and fluid UX.
 
----
+📜 License
 
-## 🧠 Tech Stack
+🪪 MIT License — Free to use, modify, and build upon with proper credit.
 
-**Frontend:** HTML, CSS, JavaScript
+👨‍💻 Author
 
-**Design:** Custom gradients, glassmorphism, and neumorphism-inspired UI
+Atul Kumar
+Frontend Developer | UI/UX Enthusiast | Web App Designer
 
----
+🌐 Portfolio: atulkumar-se.github.io/Play-Piano-with-AJ
 
-## 💻 Installation
+💻 GitHub: github.com/Atulkumar-SE
 
-1. Clone the repository
-
-   ```bash
-  https://github.com/Atulkumar-SE/Play-Piano-with-AJ.git
-   ```
-2. Open `index.html` in your browser
-
----
-
-## 🧑‍🎨 About This Project
-
-Play Piano showcases my ability to create **interactive UI**, handle **real-time sound events**, and design an **engaging user interface** for modern web apps.
-
----
-
-## 📜 License
-
-Licensed under the **MIT License** – feel free to use and modify with credit.
-
----
-
-## 👨‍💻 Author
-
-**Atul Kumar**  
-Frontend Developer | UI/UX Enthusiast | Web App Designer  
-[atul](https://github.com/Atulkumar-SE)
-🌐 [GitHub](https://github.com/Atulkumar-SE)  
-💼 [Portfolio](https://atulkumar-se.github.io/Play-Piano-with-AJ/)  
-✉️ [Contact (LinkedIn)](https://www.linkedin.com/in/atul-jaiswal-sde?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUL6GprlvSwWnMK%2FW3ppilQ%3D%3D)
+🔗 LinkedIn: Atul Jaiswal (SDE)
 
 ⭐ If you like this project, don’t forget to give it a star!
+
+<p align="center"> Made with ❤️ by <b>Atul Kumar</b> </p>
