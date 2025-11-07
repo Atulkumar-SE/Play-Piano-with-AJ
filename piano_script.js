@@ -33,7 +33,7 @@ keys_checkbox.addEventListener("click", showHideKeys);
 volumeSlider.addEventListener("input", handleVolume);
 document.addEventListener("keydown", pressedKey);
 
-// ==================== 🎵 Auto Play Songs ====================
+// ==================== Auto Play Songs ====================
 
 // Song Note Patterns
 const jingleBellsNotes = [
@@ -108,7 +108,7 @@ const twinkleNotes = [
   { key: "d", time: 800 },
 ];
 
-// ==================== 🎵 Auto Play Songs with Play/Pause and Switch ====================
+// ==================== Auto Play Songs with Play/Pause and Switch ====================
 
 let songPlaying = false;
 let currentTimeouts = [];
